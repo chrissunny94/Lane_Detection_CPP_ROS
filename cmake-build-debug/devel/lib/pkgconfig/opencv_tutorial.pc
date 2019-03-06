@@ -1,0 +1,8 @@
+prefix=/home/cth4kor/opencv_ws/src/lane_follower_ROS_C-/cmake-build-debug/devel
+
+Name: opencv_tutorial
+Description: Description of opencv_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cth4kor/opencv_ws/src/lane_follower_ROS_C-/cmake-build-debug/devel/lib 
+Requires: 

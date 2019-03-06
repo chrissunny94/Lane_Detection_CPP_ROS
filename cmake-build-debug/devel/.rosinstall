@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cth4kor/opencv_ws/src/lane_follower_ROS_C-/cmake-build-debug/devel/setup.sh

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/cth4kor/opencv_ws/src/lane_follower_ROS_C-/cmake-build-debug/gtest/gtest/src -Wl,-rpath,/home/cth4kor/opencv_ws/src/lane_follower_ROS_C-/cmake-build-debug/gtest/gtest/src -lpthread 
